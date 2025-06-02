@@ -1,4 +1,4 @@
 Leader: Oka
-Member1: Surya
+Member1: Christine
 Member2: Mika
-Member3: Christine
+Member3: Hayyin
